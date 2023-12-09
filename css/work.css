@@ -1,0 +1,26 @@
+.work-info h1 {
+    cursor: pointer;
+    margin-top: 2%;
+    margin-left: 45%;
+}
+
+.info-box {
+    display: flex;
+    width: 120px;
+    height: 300px;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.info-box2 {
+    display: flex;
+    width: 998px;
+    height: 290px;
+    margin-left: 600px;
+}
